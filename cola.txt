@@ -1,0 +1,23 @@
+root: kukaroboter
+jail_csgo -     jAILGouu    - 2game32g.cola-team.com    - 10230    
+bhop    -     HOPBHOpgoua2    - 2game32g.cola-team.com    - 10230
+surf_csgo -     UURFgoU18    - game32g.cola-team.com        - 10230
+fun_csgo -    MulTiGOU18    - 2game32g.cola-team.com    - 10230
+bhop    -    HOPBHOpgoua2    - 32geeuu.cola-team.com        - 10230 
+surfrpg    -    URFSgou        - 2so32g.cola-team.com        - 10230 
+zmplague -     zmHPLague    - 2so32g.cola-team.com        - 10230 
+ze_csgo -     ouerZEgou    - game32g.cola-team.com        - 10230
+http://imgur.com/OcopdwU
+
+todas las bases de datos:http://so32g.cola-team.com:10000/mysql/?xnavigation=1
+
+
+base de datos de admins: http://so32g.cola-team.com:10000/mysql/edit_dbase.cgi?db=admins&xnavigation=1
+
+https://www.amazon.es/Logitech-G533-Gaming-Headset-inal%C3%A1mbricos/dp/B01MYW8COY/ref=sr_1_2/259-9593409-2066749?ie=UTF8&qid=1529073314&sr=8-2&keywords=auriculares+gaming+inalambricos
+
+92665005000
+
+92.241.38.17
+
+white ip: 84.122.47.135:53535

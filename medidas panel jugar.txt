@@ -1,0 +1,42 @@
+lblNave
+lblNave.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/nave.png"))); // NOI18N
+        jpJugar.add(lblNave);
+        lblNave.setBounds(450, 510, 40, 40);
+-----
+lblScore
+lblScore.setFont(new java.awt.Font("Verdana", 0, 14)); // NOI18N
+        lblScore.setForeground(new java.awt.Color(255, 0, 0));
+        lblScore.setText("0000");
+        jpJugar.add(lblScore);
+        lblScore.setBounds(0, 0, 110, 20);
+-----
+lblLife3
+lblLife3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/life_icon.png"))); // NOI18N
+        jpJugar.add(lblLife3);
+        lblLife3.setBounds(920, 0, 20, 24);
+-------
+lblLife2
+lblLife2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/life_icon.png"))); // NOI18N
+        jpJugar.add(lblLife2);
+        lblLife2.setBounds(940, 0, 20, 24);
+--------
+lblLife1
+lblLife1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/life_icon.png"))); // NOI18N
+        jpJugar.add(lblLife1);
+        lblLife1.setBounds(960, 0, 20, 24);
+-------
+lblCountdown
+lblCountdown.setFont(new java.awt.Font("Trebuchet MS", 1, 48)); // NOI18N
+        lblCountdown.setForeground(new java.awt.Color(255, 0, 51));
+        lblCountdown.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
+        lblCountdown.setText("3");
+        jpJugar.add(lblCountdown);
+        lblCountdown.setBounds(360, 180, 230, 130);
+-------
+
+jpJugar
+jpJugar.setBackground(new java.awt.Color(51, 255, 255));
+        jpJugar.setPreferredSize(new java.awt.Dimension(50, 50));
+        jpJugar.setLayout(null);
+		
+--------
